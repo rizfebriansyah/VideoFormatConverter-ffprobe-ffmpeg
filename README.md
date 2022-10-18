@@ -18,3 +18,5 @@ The application needs to adhere to the following standards:
 - Audio channels: stereo 
 
 Do run the the .ipynb file in Jupyter Notebook. 
+
+Please take note - unable to upload the The_Gun_and_the_Pulpit.avi file as it is too large (222MB in size)
