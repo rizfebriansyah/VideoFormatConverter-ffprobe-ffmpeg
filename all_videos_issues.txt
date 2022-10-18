@@ -1,0 +1,53 @@
+VIDEOS WITH INCORRECT SETTINGS
+
+Video Name: Last_man_on_earth_1964.mov
+***********************************************************************
+Metadata        Current setting     Desired setting
+--------------  ------------------  -----------------
+video_format    mov                 mp4
+video_codec     prores              h264
+frame_rate      23.976023976023978  25
+video_bit_rate  9285.191            3700
+audio_codec     pcm_s16le           aac
+audio_bit_rate  1536.0              256
+
+
+Video Name: Voyage_to_the_Planet_of_Prehistoric_Women.mp4
+***********************************************************************
+Metadata        Current setting    Desired setting
+--------------  -----------------  -----------------
+video_codec     hevc               h264
+frame_rate      29.97002997002997  25
+video_bit_rate  8038.857           3700
+audio_codec     mp3                aac
+audio_bit_rate  320.0              256
+
+
+Video Name: The_Gun_and_the_Pulpit.avi
+***********************************************************************
+Metadata      Current setting    Desired setting
+------------  -----------------  -----------------
+video_format  avi                mp4
+video_codec   rawvideo           h264
+resolution    720x404            640x360
+
+
+Video Name: Cosmos_War_of_the_Planets.mp4
+***********************************************************************
+Metadata        Current setting    Desired setting
+--------------  -----------------  -----------------
+resolution      628x354            640x360
+aspect_ratio    314:177            16:9
+frame_rate      29.97002997002997  25
+video_bit_rate  2989.377           3700
+audio_bit_rate  317.103            256
+
+
+Video Name: The_Hill_Gang_Rides_Again.mp4
+***********************************************************************
+Metadata          Current setting    Desired setting
+--------------  -----------------  -----------------
+video_bit_rate           7537.73                3700
+audio_bit_rate            253.272                256
+
+
