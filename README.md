@@ -16,3 +16,5 @@ The application needs to adhere to the following standards:
 - Video bit rate: 2 – 5 Mb/s 
 - Audio bit rate: up to 256 kb/s 
 - Audio channels: stereo 
+
+Do run the the .ipynb files in Jupyter Notebook. 
