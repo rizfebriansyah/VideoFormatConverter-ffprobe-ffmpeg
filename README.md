@@ -17,4 +17,4 @@ The application needs to adhere to the following standards:
 - Audio bit rate: up to 256 kb/s 
 - Audio channels: stereo 
 
-Do run the the .ipynb files in Jupyter Notebook. 
+Do run the the .ipynb file in Jupyter Notebook. 
