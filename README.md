@@ -16,4 +16,3 @@ The application needs to adhere to the following standards:
 - Video bit rate: 2 – 5 Mb/s 
 - Audio bit rate: up to 256 kb/s 
 - Audio channels: stereo 
-![image](https://user-images.githubusercontent.com/88428142/196432638-da8874d2-ded3-42ac-91d4-2451184a4091.png)
